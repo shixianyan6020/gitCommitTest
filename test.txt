@@ -15,4 +15,6 @@
 10. git remote add origin https://github.com/shixianyan6020/gitCommitTest.git（把本地的内容添加到远程的github服务器上面）
 11.git push origin master (把本地的更改推动到远程的git服务器上面 第一次推送git push -u origin master
 )
-12.
+12.git branch dev (新建dev分支)
+   git checkout dev (切换到dev分支)
+   git branch(查看当前分支)
