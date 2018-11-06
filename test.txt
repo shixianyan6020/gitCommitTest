@@ -44,3 +44,8 @@
 		一是用git stash apply恢复，但是恢复后，stash内容并不删除，你需要用git stash drop来删除；
 		另一种方式是用git stash pop，恢复的同时把stash内容也删了：
 		git stash pop（恢复dev之前没有保存的提交）
+		
+		
+		
+		
+		搭建好所军军军军军军军军军军军军军军军军军
